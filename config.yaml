@@ -1,6 +1,0 @@
-path: /content/gdrive/My Drive/fracture_identification/data/
-train: images/train 
-val: images/val  
-
-nc: 1
-names: ['fracture']
