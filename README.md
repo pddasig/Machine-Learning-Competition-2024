@@ -6,3 +6,5 @@ Note: We will update this README for answering questions and sharing information
 
 **UPDATES:**
 1. For the submission, it seems like the Codalab bug is caused by the deprecation of mutation events in Chrome (probably Edge and Explorer too). It still runs on Firefox so participants are recommended to submit using Firefox.
+2. Competition is successfully completed and the answers for fracture locations and their images are uploaded in our repo.
+3. We are designing our next ML competition and you are welcome to submit your idea or suggestions! (pdda_sig@spwla.org)
