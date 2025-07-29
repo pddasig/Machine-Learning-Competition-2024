@@ -9,7 +9,7 @@ Note: We will update this README for answering questions and sharing information
 2. Competition is successfully completed and the answers for fracture locations and their images are uploaded in our repo.
 3. We are designing our next ML competition and you are welcome to submit your idea or suggestions! (pdda_sig@spwla.org)
 
-
+===========================================================
 Announcing the Winners of SPWLA PDDA 2024 ML Competition!
 
 We are thrilled to announce the winners of the SPWLA Petrophysical Data-Driven Analysis (PDDA) 2024 Machine Learning Competition! This year’s competition saw outstanding participation from talented teams worldwide, pushing the boundaries of resistivity image log analysis for fracture identifications through innovative machine learning approaches.
