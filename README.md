@@ -5,6 +5,14 @@ If you have any questions or need clarifications, send an email to "pdda_sig@spw
 Note: We will update this README for answering questions and sharing information, stay tuned!
 
 **UPDATES:**
+By submitting your work to this contest, you grant the organizers permission to publish your project in a peer-reviewed academic journal. This is a condition of entry and participation. The goal is to promote knowledge sharing and contribute to the broader machine learning community.
+
+This agreement applies to all submissions, regardless of whether they win. Each participant must ensure their work is original and does not infringe on any intellectual property rights. Further details about the publication process will be provided to all eligible participants after the contest concludes.
+
+We look forward to seeing your innovative work!
+
+
+**UPDATES:**
 1. For the submission, it seems like the Codalab bug is caused by the deprecation of mutation events in Chrome (probably Edge and Explorer too). It still runs on Firefox so participants are recommended to submit using Firefox.
 2. Competition is successfully completed and the answers for fracture locations and their images are uploaded in our repo.
 3. We are designing our next ML competition and you are welcome to submit your idea or suggestions! (pdda_sig@spwla.org)
